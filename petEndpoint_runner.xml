@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Pet Store API Automation" verbose="1">
+    <test name="Task">
+        <classes>
+            <class name="io.petstore.tests.pet">
+            </class>
+        </classes>
+    </test>
+</suite>
